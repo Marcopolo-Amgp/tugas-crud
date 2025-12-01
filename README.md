@@ -49,7 +49,7 @@ Aplikasi ini merupakan sistem back-end sederhana untuk mengelola data mahasiswa.
 - **`readme.md`** - Dokumentasi lengkap aplikasi
 - **`schema.sql`** - Skema database untuk import ke MySQL
 
-<img src="images/Struktur Folder." width="250" >
+<img src="images/Struktur Folder.png" width="250" >
 
 ### Penjelasan Class Utama 
 ## 📁 Class Database (`database.php`)
